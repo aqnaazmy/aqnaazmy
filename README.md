@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am a student of politeknik harapan bersama
+I am from brebes 
 
 
 # 💻 Tech Stack:
