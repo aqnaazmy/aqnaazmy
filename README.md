@@ -1,8 +1,6 @@
 # Aqnaazmy ⚔
-
 Enthusiastic Android developer with a focus on Mobile Development using Jetpack Compose and UI/UX Design. Experienced in creating modern and easy-to-use Android apps, and actively competing in UI/UX. With a strong understanding of user experience and visual design, I am committed to creating apps that are engaging, intuitive, and functional.
 
-***
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aqna.azmi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aqnaazmy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aqnaazmy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@AqnaAzmyn) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aqnaazmyn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AqnaAzmyn) 
